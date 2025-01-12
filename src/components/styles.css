@@ -1,0 +1,91 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Chonburi&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Londrina+Shadow&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Stylish&family=Yusei+Magic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Chonburi&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Londrina+Shadow&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Stylish&family=Yusei+Magic&display=swap');
+.tweetcard{
+    background: rgba( 79, 33, 33, 0.15 );
+box-shadow: 0 8px 20px 0 rgba(73, 73, 73, 0.37);
+backdrop-filter: blur( 10px );
+-webkit-backdrop-filter: blur( 10px );
+/* border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+}
+
+.tweetcard:hover{
+  box-shadow: 0 5px 10px 3px rgba(13, 138, 86, 0.37);
+}
+
+.comic-neue-light {
+  font-family: "Comic Neue", cursive;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+}
+.comic-neue-bold {
+  font-family: "Comic Neue", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+  text-shadow:2px 2px 8px rgb(40, 191, 125)
+}
+
+
+.bungee-regular {
+  font-family: "Bungee", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 30px
+}
+.bungee-small {
+  font-family: "Bungee", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px
+}
+.londrina-shadow-regular {
+  font-family: "Londrina Shadow", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:70px;
+  color: rgb(40, 191, 125);
+  text-shadow:2px 2px 8px rgb(40, 191, 125);
+}
+.number{
+  color: rgb(40, 191, 125);
+  font-size: medium;
+  font-weight:400
+}
+
+
+
+
+.londrina-shadow-regular {
+  font-family: "Londrina Shadow", sans-serif;
+  font-weight: 400;
+  font-style: nornal;
+  font-size: 200px;
+}
+.bungee-regular {
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 90px;
+}
+
+.stylish-regular {
+  font-family: "Stylish", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+}
+
+.stylish-regular-list {
+  font-family: "Stylish", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  color:black
+}
+
+
+
+
